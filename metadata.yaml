@@ -1,5 +1,5 @@
 _repo: Twenty-Thousand-Leagues-Under-the-Seas-An-Underwater-Tour-of-the-World_2488
-_version: 0.1.0
+_version: 0.2.0
 alternative_title:
 - Vingt mille lieues sous les mers. English
 - '20,000 Leagues Under the Seas: An Underwater Tour of the World'
@@ -8,6 +8,9 @@ contributor:
     agent_name: Walter, F. P.
     gutenberg_agent_id: '934'
     url: http://www.gutenberg.org/2009/agents/934
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Verne, Jules
@@ -24,6 +27,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Jules_Verne
     - http://en.wikipedia.org/wiki/Jules_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2488#Twenty-Thousand-Leagues-Under-the-Seas-An-Underwater-Tour-of-the-World
 gutenberg_bookshelf:
 - Science Fiction
 - Movie Books
