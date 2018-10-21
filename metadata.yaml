@@ -1,5 +1,5 @@
 _repo: Twenty-Thousand-Leagues-Under-the-Seas-An-Underwater-Tour-of-the-World_2488
-_version: 0.2.0
+_version: 0.2.1
 alternative_title:
 - Vingt mille lieues sous les mers. English
 - '20,000 Leagues Under the Seas: An Underwater Tour of the World'
@@ -46,5 +46,6 @@ subjects:
 - !lcsh 'Submarines (Ships) -- Fiction'
 - !lcsh 'Science fiction'
 - !lcsh 'Sea stories'
+- GITenberg
 title: 'Twenty Thousand Leagues Under the Seas: An Underwater Tour of the World'
 url: http://www.gutenberg.org/ebooks/2488
